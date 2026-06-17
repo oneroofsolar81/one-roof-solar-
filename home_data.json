@@ -1,0 +1,174 @@
+{
+  "hero": {
+    "badge": "Federal Rebate: Save 30% on Solar Batteries",
+    "title": "Power Your Life, <br />\n<span class=\"text-transparent bg-clip-text bg-gradient-to-r from-brand-400 to-green-500 pb-2 inline-block\">Naturally.</span>",
+    "subtitle": "Complete Solar Solutions for Darwin & the NT. \nGet premium 6.6 kW Solar Systems from just <strong class=\"text-white font-medium bg-white/10 px-2 py-0.5 rounded-md\">$28 per week</strong> with $0 Deposit.",
+    "ctaText": "Get Free Quote",
+    "features": [
+      "$0 Deposit Options",
+      "25 Years Performance"
+    ]
+  },
+  "expertise": {
+    "badge": "Our Expertise",
+    "title": "Complete Energy <br class=\"hidden sm:block\" /><span class=\"text-transparent bg-clip-text bg-gradient-to-r from-brand-600 to-emerald-500\">Solutions</span>",
+    "items": [
+      {
+        "title": "Residential & Commercial Solar",
+        "description": "Expert installation of premium Tier 1 solar panels tailored to maximize your energy production. We analyze your roof's orientation, local weather patterns, and your specific energy consumption profile."
+      },
+      {
+        "title": "Battery Storage Systems",
+        "description": "Store your excess solar energy for nighttime use and protect against grid blackouts with advanced lithium technology."
+      },
+      {
+        "title": "Smart Inverters",
+        "description": "High-efficiency inverters to reliably convert energy."
+      },
+      {
+        "title": "Repairs & Maintenance",
+        "description": "Keep your system running at peak performance."
+      },
+      {
+        "title": "Solar Hot Water",
+        "description": "Energy-efficient hot water solutions powered by the sun to significantly reduce your heating bills."
+      },
+      {
+        "title": "Pool Heating",
+        "description": "Extend your swimming season efficiently with our advanced solar-powered heat pumps and heating systems."
+      }
+    ]
+  },
+  "whyChooseUs": {
+    "badge": "Why Choose Us",
+    "title": "Premium Solar Solutions For The Northern Territory",
+    "image": "https://oneroofsolar.com.au/wp-content/uploads/2024/11/solar-panel-768x819-1.jpg",
+    "ctaText": "Get Your Free Quote",
+    "items": [
+      {
+        "title": "Huge Savings & Government Grants",
+        "description": "Maximize your energy savings. Customized solar solutions. Trust us to slash your bills. Top-tier solar panels & batteries with government grants."
+      },
+      {
+        "title": "Easy Processing Fully Taken Care By Our Experts",
+        "description": "Your stress-free solar journey. We handle everything, from rebates to custom solutions."
+      },
+      {
+        "title": "Power Your Life, Naturally",
+        "description": "Enjoy the benefits of your fully functional solar energy system. Get started today with our hassle-free solar panel installation process."
+      }
+    ]
+  },
+  "process": {
+    "badge": "How It Works",
+    "title": "Your Seamless Journey to <br class=\"hidden sm:block\" />\n<span class=\"text-transparent bg-clip-text bg-gradient-to-r from-brand-400 to-emerald-400\">Solar Energy</span>",
+    "subtitle": "We've completely streamlined our process to make switching to solar as easy, fast, and stress-free as possible.",
+    "steps": [
+      {
+        "title": "Free Consultation",
+        "description": "We assess your energy needs and evaluate your roof space remotely.",
+        "step": "01"
+      },
+      {
+        "title": "Custom Design",
+        "description": "Our engineers design a tailored solar solution to maximize your ROI.",
+        "step": "02"
+      },
+      {
+        "title": "Installation",
+        "description": "Certified professionals install your system quickly and safely.",
+        "step": "03"
+      },
+      {
+        "title": "Power On",
+        "description": "Start saving immediately while reducing your carbon footprint.",
+        "step": "04"
+      }
+    ]
+  },
+  "installer": {
+    "badge": "Top Quality Installers",
+    "title": "Your Expert <br/> \n<span class=\"text-transparent bg-clip-text bg-gradient-to-r from-brand-600 to-emerald-500\">Darwin Solar Installer</span>",
+    "image": "https://images.unsplash.com/photo-1611365892117-00ac5ef43c90?q=60&w=1000&auto=format&fit=crop",
+    "paragraphs": [
+      "As Darwin's premier solar panel installers, we are dedicated to providing the highest quality renewable energy solutions tailored specifically for the harsh Northern Territory climate.",
+      "From the initial consultation to final commissioning, our expert installers handle every aspect of your solar journey, guaranteeing a seamless transition to clean, affordable, and sustainable power."
+    ],
+    "features": [
+      {
+        "title": "CEC Accredited",
+        "description": "Certified professionals ensuring the strictest safety standards."
+      },
+      {
+        "title": "Climate Ready",
+        "description": "Systems designed to withstand Darwin's extreme weather."
+      }
+    ],
+    "ctaText": "Start Your Project"
+  },
+  "ecosystem": {
+    "badge": "Complete Integration",
+    "title": "The Smart Energy <span class=\"text-transparent bg-clip-text bg-gradient-to-r from-brand-600 to-green-500\">Ecosystem</span>",
+    "subtitle": "All your energy needs seamlessly connected and controlled from the palm of your hand.",
+    "items": [
+      {
+        "title": "Intelligent App Monitoring",
+        "description": "Track your generation, monitor usage, and control your home's energy flow in real-time from anywhere in the world."
+      },
+      {
+        "title": "Premium Panels",
+        "description": "Max efficiency Tier-1 panels designed to handle the intense NT sun while maintaining maximum output."
+      },
+      {
+        "title": "EV Ready Systems",
+        "description": "Future-proof your home with EV charger integration. Drive completely free powered by the sun."
+      },
+      {
+        "title": "Hybrid Inverter Hub",
+        "description": "The brain of your energy system. Intelligently routes solar power to your home, battery, or the grid for maximum financial return."
+      }
+    ]
+  },
+  "battery": {
+    "badge": "Energy Independence",
+    "title": "Uninterrupted Power for <span class=\"text-transparent bg-clip-text bg-gradient-to-r from-slate-200 to-slate-500\">Your Home</span>",
+    "image": "https://i.postimg.cc/pT3nxMHL/Bellamack-0832-(1)-(1).webp",
+    "items": [
+      {
+        "title": "Blackout Protection",
+        "description": "Keep your essential appliances running seamlessly during grid outages."
+      },
+      {
+        "title": "Peak Shifting",
+        "description": "Store cheap solar energy during the day to use during expensive evening peak times. Save up to $1,500 extra per year."
+      },
+      {
+        "title": "Maximum ROI",
+        "description": "Combine with the 30% Federal Battery Rebate for unprecedented return on investment."
+      }
+    ],
+    "ctaText": "Explore Battery Options"
+  },
+  "guarantee": {
+    "title": "The Oneroof Guarantee",
+    "description": "Peace of mind comes standard. We stand behind our work with industry-leading warranties and local support you can count on.",
+    "items": [
+      {
+        "title": "25-Year Performance Warranty",
+        "description": "Your solar panels are guaranteed to produce high yields for a quarter of a century."
+      },
+      {
+        "title": "CEC Accredited Experts",
+        "description": "Every installation is carried out by Clean Energy Council approved electricians."
+      },
+      {
+        "title": "10-Year Workmanship Warranty",
+        "description": "Flawless execution backed by our rigorous quality control and extended guarantee."
+      },
+      {
+        "title": "Local NT Support",
+        "description": "We're right here in the Territory. Fast response times and dedicated local service."
+      }
+    ]
+  }
+}

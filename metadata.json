@@ -1,0 +1,8 @@
+{
+  "name": "Oneroof Solar",
+  "description": "Leading solar panel and battery storage installer in Darwin and the NT. Specializing in $0 deposit solar plans, premium Tier 1 equipment, and local expertise.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

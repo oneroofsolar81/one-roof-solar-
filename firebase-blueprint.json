@@ -1,0 +1,60 @@
+{
+  "entities": {
+    "AdminInfo": {
+      "title": "Admin Info",
+      "description": "Defines what users are admins",
+      "type": "object",
+      "properties": {
+        "email": { "type": "string" },
+        "role": { "type": "string" }
+      },
+      "required": ["email", "role"]
+    },
+    "PageContent": {
+      "title": "Page Content",
+      "description": "General page content (e.g., Home, About, Contact)",
+      "type": "object",
+      "properties": {
+        "title": { "type": "string" },
+        "content": { "type": "string" },
+        "heroTitle": { "type": "string" },
+        "heroSubtitle": { "type": "string" }
+      },
+      "required": ["title"]
+    },
+    "CollectionItem": {
+      "title": "Collection Item",
+      "description": "A dynamic item like a Service, Product, or System",
+      "type": "object",
+      "properties": {
+        "title": { "type": "string" },
+        "description": { "type": "string" },
+        "content": { "type": "string" },
+        "icon": { "type": "string" }
+      },
+      "required": ["title", "description"]
+    }
+  },
+  "firestore": {
+    "admins/{uid}": {
+      "schema": { "$ref": "#/entities/AdminInfo" },
+      "description": "Stores admin user roles"
+    },
+    "pages/{pageId}": {
+      "schema": { "$ref": "#/entities/PageContent" },
+      "description": "Stores static page content"
+    },
+    "services/{serviceId}": {
+      "schema": { "$ref": "#/entities/CollectionItem" },
+      "description": "Stores services data"
+    },
+    "products/{productId}": {
+      "schema": { "$ref": "#/entities/CollectionItem" },
+      "description": "Stores products data"
+    },
+    "systems/{systemId}": {
+      "schema": { "$ref": "#/entities/CollectionItem" },
+      "description": "Stores solar system data"
+    }
+  }
+}
