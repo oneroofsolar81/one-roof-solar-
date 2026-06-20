@@ -23,7 +23,7 @@ export function GoogleReviews() {
             </p>
           </div>
           <div className="w-full text-center text-slate-500">
-            <div className="elfsight-app-e763f50c-7362-4429-b768-e9368416ee57" data-elfsight-app-lazy></div>
+            <div className="elfsight-app-97fdc0ab-99c9-4ba4-9322-5d5c0458539a" data-elfsight-app-lazy></div>
           </div>
         </FadeIn>
       </div>
